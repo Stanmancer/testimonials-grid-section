@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution here](https://your-solution-url.com)
+- Solution URL:
+  [solution here](https://www.frontendmentor.io/solutions/responsive-testimonials-section-using-css-grid-Kmd9yQs9AP)
 - Live Site URL:
   [live site here](https://stanmancer.github.io/testimonials-grid-section/)
 
